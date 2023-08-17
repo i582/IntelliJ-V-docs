@@ -15,7 +15,7 @@ The plugin uses the **v fmt** utility built into the language to format the code
 
 To customize **v fmt** calls, navigate to **Settings / Preferences | Languages & Frameworks | V | Vfmt**.
 
-![](code-style-and-formattings/vfmt-settings.png){width=700 border-effect="line"}
+![](vfmt-settings.png){width=700 border-effect="line"}
 
 - You can specify additional arguments for **v fmt**.
 - And also custom environment variables if needed.
