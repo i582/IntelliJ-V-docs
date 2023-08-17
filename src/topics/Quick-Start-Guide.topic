@@ -293,19 +293,19 @@
             :
         </p>
 
-        <img src="project-settings/project-settings.png" alt="project settings" width="700" border-effect="line"/>
+        <img src="project-settings.png" alt="project settings" width="700" border-effect="line"/>
 
         <p>Use the
             <control>Vfmt</control>
             node to adjust the Vfmt formatter settings:
         </p>
-        <img src="project-settings/vfmt-settings.png" alt="vfmt settings" width="700" border-effect="line"/>
+        <img src="vfmt-settings.png" alt="vfmt settings" width="700" border-effect="line"/>
 
         <p>Use the
             <control>Debugger</control>
             node to adjust the debugger settings:
         </p>
-        <img src="project-settings/debugger-settings.png" alt="vfmt settings" width="700" border-effect="line"/>
+        <img src="debugger-settings.png" alt="vfmt settings" width="700" border-effect="line"/>
     </chapter>
     <chapter title="Run" id="run">
         <p>To run a selected target, do one of the following:</p>
